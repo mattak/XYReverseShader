@@ -1,0 +1,16 @@
+{
+  "name": "me.mattak.xy-reverse-shader",
+  "displayName": "XYReverseShader",
+  "version": "1.0.0",
+  "unity": "2021.2",
+  "description": "Task Animation Library for Unity",
+  "documentationUrl": "https://github.com/mattak/XYReverseShader",
+  "dependencies": {
+  },
+  "author": {
+    "name": "mattak",
+    "email": "mattak.me@gmail.com",
+    "url": "https://github.com/mattak"
+  },
+  "type": "library"
+}
